@@ -1,18 +1,30 @@
 # Mqtt-Commands-
 Mqtt Commands 2024
 # Brocker 
-`
+
 > docker run -it ubuntu:focal bash
+
+<br>
 > apt update
+<br>
 > apt install net-tools iputils-ping
+<br>
 > ls
+<br>
 > apt install mosquitto mosquitto-clients
+<br>
 > ls
+<br>
 > ps -ef   or    ps -ef |grep mosq
+<br>
 > service mosquitto start
+<br>
 > ifconfig
+<br>
 > > cat /etc/hosts
+<br>
 >
+<br>
 > ps -ef
 <br>
 
